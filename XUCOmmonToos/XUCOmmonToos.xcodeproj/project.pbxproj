@@ -11,6 +11,7 @@
 		A7AA4E001E80B9EA003BDCEC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA4DFF1E80B9EA003BDCEC /* AppDelegate.m */; };
 		A7AA4E081E80B9EA003BDCEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7AA4E071E80B9EA003BDCEC /* Assets.xcassets */; };
 		A7AA4E0B1E80B9EA003BDCEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7AA4E091E80B9EA003BDCEC /* LaunchScreen.storyboard */; };
+		A7AA4E181E80F55C003BDCEC /* UIImage+XUExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = A7AA4E171E80F55C003BDCEC /* UIImage+XUExtension.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,8 @@
 		A7AA4E071E80B9EA003BDCEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7AA4E0A1E80B9EA003BDCEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7AA4E0C1E80B9EA003BDCEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7AA4E161E80F55C003BDCEC /* UIImage+XUExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+XUExtension.h"; sourceTree = "<group>"; };
+		A7AA4E171E80F55C003BDCEC /* UIImage+XUExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+XUExtension.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +78,8 @@
 		A7AA4E121E80BA44003BDCEC /* Tools */ = {
 			isa = PBXGroup;
 			children = (
+				A7AA4E161E80F55C003BDCEC /* UIImage+XUExtension.h */,
+				A7AA4E171E80F55C003BDCEC /* UIImage+XUExtension.m */,
 			);
 			path = Tools;
 			sourceTree = "<group>";
@@ -153,6 +158,7 @@
 			files = (
 				A7AA4E001E80B9EA003BDCEC /* AppDelegate.m in Sources */,
 				A7AA4DFD1E80B9EA003BDCEC /* main.m in Sources */,
+				A7AA4E181E80F55C003BDCEC /* UIImage+XUExtension.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +309,7 @@
 				A7AA4E111E80B9EA003BDCEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
