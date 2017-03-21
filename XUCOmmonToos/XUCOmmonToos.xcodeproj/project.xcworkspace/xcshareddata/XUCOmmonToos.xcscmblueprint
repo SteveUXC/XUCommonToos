@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E4B0C03E1C0B854E8337515662D859A10AF7936D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2666D1545F26286353165FC23DAFF3D53B4B02B9" : 9223372036854775807,
+    "E4B0C03E1C0B854E8337515662D859A10AF7936D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "592D6E09-0079-4E76-87A0-271E7E4CCDEC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2666D1545F26286353165FC23DAFF3D53B4B02B9" : "",
+    "E4B0C03E1C0B854E8337515662D859A10AF7936D" : "XUCommonToos\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XUCOmmonToos",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XUCOmmonToos\/XUCOmmonToos.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robbiehanson\/XcodeColors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2666D1545F26286353165FC23DAFF3D53B4B02B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SteveUXC\/XUCommonToos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E4B0C03E1C0B854E8337515662D859A10AF7936D"
+    }
+  ]
+}
